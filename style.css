@@ -1,0 +1,50 @@
+/*edição fonte e margens do bordy */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  /*edição container: posição, largura, preencimento*/
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /*edição caabeçalho: cor fundo , preencimento, largura*/
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /*cor texto*/
+  h3 {
+    color: #333;
+  }
+  
+  /*estilo linha paragrafo*/
+  p {
+    line-height: 1.5;
+  }
+  
+  /*edição imagem: altura, largura, posição, bordas*/
+  img {
+    width: 450px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+  
+  /*edição rodapé: cor fundo, preencimento, posição*/
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: #fff;
+  }
+  
